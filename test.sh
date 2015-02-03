@@ -11,3 +11,5 @@ done
  
 echo
 echo "Boom!"
+a
+gg
